@@ -9,6 +9,6 @@
 <title>Login</title> 
 </head> 
 <body> 	
-	<p>Welcome JohnCaley</p>
+	<p>Welcome ${User.username} </p>
 </body> 
 </html> 
